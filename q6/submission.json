@@ -1,0 +1,6 @@
+{
+  "prompt": "Programmatic still-life brief: render overfitting as a physically plausible locksmith workshop scene. On a warm, dim workbench, show one absurdly hand-filed brass key whose jagged teeth have been tailored to match every defect of a single battered, warped padlock clamped in a vise. Nearby, several clean standard padlocks hang on a pegboard and visibly would not accept that bizarre key. No text, no labels, no equations, no diagrams, no floating UI, no generic AI icons. Editorial photography mood, tactile metal, brass filings, shallow depth of field, structurally faithful metaphor for memorizing one noisy example and failing to generalize.",
+  "model": "Python Pillow 11.x procedural illustration",
+  "concept": "overfitting",
+  "metaphor": "A custom key is filed to match one damaged lock's quirks so exactly that it no longer fits normal locks."
+}
