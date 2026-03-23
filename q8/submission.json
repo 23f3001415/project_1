@@ -1,0 +1,6 @@
+{
+  "prompt": "Programmatic paradox portrait brief: depict Simpson's Paradox as a structurally necessary diptych, not a chart and not a literal statistics illustration. Left panel: two physically separate stair-like channels, one carrying red marbles and one carrying blue marbles, each visibly climbing upward in its own local direction. Right panel: the same two groups are merged into a single larger stepped channel where the combined flow visibly descends overall. No text, no numbers, no axes, no equations, no chart grammar. The image should feel inevitable and wrong at the same time, like local truths that reverse when pooled.",
+  "model": "Python Pillow 11.x procedural illustration",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Two colored streams each climb in isolation, but once merged into one channel their combined motion descends, making local and global truth visibly contradict."
+}
