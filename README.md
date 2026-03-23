@@ -1,0 +1,8 @@
+# Project 1 Solutions
+
+This repository stores solutions for TDS Project 1 in a layout similar to the reference repository:
+
+- `q3/solution.md` - step-by-step guide for Question 3
+
+For questions that only need written answers, the solution is kept as Markdown.
+For questions that need code, the relevant folder can also contain source files and deployment notes.
