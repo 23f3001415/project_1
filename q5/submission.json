@@ -1,0 +1,7 @@
+{
+  "prompt": "Programmatic composition brief: create a single-frame magazine-opening image about global mammal biomass where the viewer can feel that wild mammals have been squeezed to the margin. No axes, no legend, no labels, no standard chart. Use a dark, oppressive upper mass made of human and livestock silhouettes occupying 95% of the visual field, pressing diagonally downward like a landslide. Reserve a small lower refuge of light for only five luminous wild mammal silhouettes, making the imbalance emotionally obvious before it is counted. Editorial, tactile, somber, high-contrast, restrained palette, not infographic, not cute, not photorealistic.",
+  "model": "Python Pillow 11.x procedural illustration",
+  "dataset_name": "Global mammal biomass by group (humans, livestock & pets, wild mammals)",
+  "dataset_url": "https://ourworldindata.org/wild-mammals-birds-biomass",
+  "insight": "Humans and livestock now make up 95% of the world's mammal biomass, leaving wild mammals just 5%."
+}
